@@ -54,3 +54,14 @@ ng g m <module_name> --routing
 ```
 ng g c <module_name>/<component_name>
 ```
+
+### 8. Create a interface
+```
+ng g interface <path>/<interface_name>
+```
+
+### 9. Create a service
+```
+ng g s <path>/<service_name>
+
+```
