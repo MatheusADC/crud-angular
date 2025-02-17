@@ -15,17 +15,41 @@ npm install -g @angular/cli@12
 nvm install 14.21.3
 ```
 
-<span></span>
+<br/>
 
 > [!CAUTION]
 > Uninstall Node from your machine before installing NVM.
 
-<span></span>
+<br/>
 
-### Using Node 14
+### 3. Using Node 14
 ```
 nvm use 14.21.3
 ```
 
+<br/>
+
 > [!TIP]
 > To check which versions of Node are installed, type ```nvm ls```
+
+<br/>
+
+### 4. Angular Material Installation
+```
+ng add @angular/material
+```
+
+### 5. Start the server
+```
+ng serve
+```
+
+### 6. Create a module with routing
+```
+ng g m <module_name> --routing
+```
+
+### 7. Create a component within an existing module
+```
+ng g c <module_name>/<component_name>
+```
