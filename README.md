@@ -8,7 +8,8 @@ npm install -g @angular/cli@12
 ```
 
 ### 2. NVM for Windows Installation (nvm-setup.exe)
-[Site](https://github.com/coreybutler/nvm-windows/releases)
+This software allows the installation and use of multiple versions of Node. To install, [click here](https://github.com/coreybutler/nvm-windows/releases).
+
 
 ### 3. Node 14 Instalattion
 ```
