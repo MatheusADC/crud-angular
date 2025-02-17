@@ -63,5 +63,4 @@ ng g interface <path>/<interface_name>
 ### 9. Create a service
 ```
 ng g s <path>/<service_name>
-
 ```
