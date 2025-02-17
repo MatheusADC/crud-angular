@@ -1,27 +1,31 @@
-# CrudAngular
+# <sub><img src="https://github.com/user-attachments/assets/b3ee17e4-1686-41d5-b09e-907449b74a42" alt="Angular icon" width="38"></sub> Description
+A project that structures a CRUD using Angular and Java Spring Boot.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.18.
+# <img src="https://github.com/user-attachments/assets/d8b94be8-9f4c-4b5a-bb38-84b5d91c20e5" alt="terminal icon" width="28"> Commands
+### 1. Angular 12 Installation
+```
+npm install -g @angular/cli@12
+```
 
-## Development server
+### 2. NVM for Windows Installation (nvm-setup.exe)
+[Site](https://github.com/coreybutler/nvm-windows/releases)
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### 3. Node 14 Instalattion
+```
+nvm install 14.21.3
+```
 
-## Code scaffolding
+<span></span>
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+> [!CAUTION]
+> Uninstall Node from your machine before installing NVM.
 
-## Build
+<span></span>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+### Using Node 14
+```
+nvm use 14.21.3
+```
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+> [!TIP]
+> To check which versions of Node are installed, type ```nvm ls```
