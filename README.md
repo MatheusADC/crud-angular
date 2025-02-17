@@ -11,7 +11,7 @@ npm install -g @angular/cli@12
 This software allows the installation and use of multiple versions of Node. To install, [click here](https://github.com/coreybutler/nvm-windows/releases).
 
 
-### 3. Node 14 Instalattion
+### 3. Node 14 Installation
 ```
 nvm install 14.21.3
 ```
