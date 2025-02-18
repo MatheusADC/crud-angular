@@ -74,3 +74,8 @@ ng g interface <path>/<interface_name>
 ```
 ng g s <path>/<service_name>
 ```
+
+### 10. Create a pipe
+```
+ng g pipe <path>/<pipe_name>
+```
