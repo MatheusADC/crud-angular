@@ -26,7 +26,7 @@ nvm install 14.21.3
 
 <br/>
 
-### 3. Using Node 14
+### 4. Using Node 14
 ```
 nvm use 14.21.3
 ```
@@ -38,7 +38,7 @@ nvm use 14.21.3
 
 <br/>
 
-### 4. Angular Material Installation
+### 5. Angular Material Installation
 ```
 ng add @angular/material
 ```
@@ -50,32 +50,32 @@ ng add @angular/material
 
 <br/>
 
-### 5. Start the server
+### 6. Start the server
 ```
 ng serve
 ```
 
-### 6. Create a module with routing
+### 7. Create a module with routing
 ```
 ng g m <module_name> --routing
 ```
 
-### 7. Create a component within an existing module
+### 8. Create a component within an existing module
 ```
 ng g c <module_name>/<component_name>
 ```
 
-### 8. Create a interface
+### 9. Create a interface
 ```
 ng g interface <path>/<interface_name>
 ```
 
-### 9. Create a service
+### 10. Create a service
 ```
 ng g s <path>/<service_name>
 ```
 
-### 10. Create a pipe
+### 11. Create a pipe
 ```
 ng g pipe <path>/<pipe_name>
 ```
