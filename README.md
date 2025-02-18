@@ -40,6 +40,13 @@ nvm use 14.21.3
 ng add @angular/material
 ```
 
+<br/>
+
+> [!CAUTION]
+> The Angular Material used is from version 12, and to find the documentation for its components, [click here](https://v12.material.angular.io/components/categories).
+
+<br/>
+
 ### 5. Start the server
 ```
 ng serve
