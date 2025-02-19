@@ -10,7 +10,8 @@ import { delay, first, tap } from 'rxjs/operators';
 export class CoursesService {
 
   // private readonly API = '/assets/acourses.json';
-  private readonly API = '/assets/courses.json';
+  // private readonly API = '/assets/courses.json';
+  private readonly API = 'api/courses';
 
   constructor(private httpClient: HttpClient) { }
 
