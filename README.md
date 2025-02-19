@@ -1,10 +1,10 @@
-# <sub><img src="https://github.com/user-attachments/assets/b3ee17e4-1686-41d5-b09e-907449b74a42" alt="Angular icon" width="38"></sub> Description
+# <sub><img src="https://github.com/user-attachments/assets/60f6e980-0bed-4df6-970b-16059659ee78" alt="Angular icon" width="38"></sub> Description
 A project that creates the front-end of a website using Angular to perform CRUD operations.
 
-# <sub><img src="https://github.com/user-attachments/assets/01e3faca-d9f5-4139-80b9-331cc92c32ff" alt="Angular icon" width="40"></sub> Back-End
+# <sub><img src="https://github.com/user-attachments/assets/f4356701-e53e-4c89-99dd-ce3656919e7b" alt="Angular icon" width="40"></sub> Back-End
 [Click here](https://github.com/MatheusADC/crud-spring)
 
-# <img src="https://github.com/user-attachments/assets/d8b94be8-9f4c-4b5a-bb38-84b5d91c20e5" alt="terminal icon" width="28"> Commands
+# <img src="https://github.com/user-attachments/assets/6d7dde36-c2de-46fe-801e-3acb3620a552" alt="terminal icon" width="28"> Commands
 ### 1. Angular 12 Installation
 ```
 npm install -g @angular/cli@12
