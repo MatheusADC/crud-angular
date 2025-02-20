@@ -85,12 +85,12 @@ ng g pipe <path>/<pipe_name>
 ng version
 ```
 
-### 13. Updating Angular Core and Angular CLI
+### 13. Updating Angular Core and Angular CLI (v12 to v13)
 ```
 ng update @angular/core@13.3.3 @angular/cli@13.3.3
 ```
 
-### 14. Updating Angular CDK and Angular Material
+### 14. Updating Angular CDK and Angular Material (v12 to v13)
 ```
 ng update @angular/cdk@13.3.3 @angular/material@13.3.3
 ```
@@ -98,4 +98,14 @@ ng update @angular/cdk@13.3.3 @angular/material@13.3.3
 ### 15. Run the Angular server after creating the proxy
 ```
 npm run start
+```
+
+### 16. Updating Angular Core and Angular CLI (v13 to v14)
+```
+ng update @angular/core@14.1.0 @angular/cli@14.1.0
+```
+
+### 17. Updating Angular CDK and Angular Material (v13 to v14)
+```
+ng update @angular/cdk@14.1.0 @angular/material@14.1.0
 ```
