@@ -94,3 +94,8 @@ ng update @angular/core@13.3.3 @angular/cli@13.3.3
 ```
 ng update @angular/cdk@13.3.3 @angular/material@13.3.3
 ```
+
+### 15. Run the Angular server after creating the proxy
+```
+npm run start
+```
