@@ -79,3 +79,18 @@ ng g s <path>/<service_name>
 ```
 ng g pipe <path>/<pipe_name>
 ```
+
+### 12. Checking the Angular version and related packages
+```
+ng version
+```
+
+### 13. Updating Angular Core and Angular CLI
+```
+ng update @angular/core@13.3.3 @angular/cli@13.3.3
+```
+
+### 14. Updating Angular CDK and Angular Material
+```
+ng update @angular/cdk@13.3.3 @angular/material@13.3.3
+```
