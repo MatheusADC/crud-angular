@@ -36,7 +36,7 @@ export class CoursesComponent implements OnInit {
     this.refresh();
   }
 
-  refresh(pageEvent: PageEvent = {length: 0, pageIndex: 0, pageSize: 10}): void {
+  refresh(pageEvent: PageEvent = {length: 0, pageIndex: 0, pageSize: 10}) {
     this.courses$ = this.coursesService.list(pageEvent.pageIndex, pageEvent.pageSize)
       .pipe(
         tap(() => {
