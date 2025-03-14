@@ -120,7 +120,7 @@ ng g resolver <path>/<resolver_name>
 ng update @angular/core@15 @angular/cli@15
 ```
 
-### 20. Updating Angular Material (v14 to v15)
+### 20. Updating Angular CDK and Angular Material (v14 to v15)
 ```
-ng update @angular/material@15
+ng update @angular/cdk@15 @angular/material@15
 ```
