@@ -105,12 +105,42 @@ npm run start
 ng update @angular/core@14.1.0 @angular/cli@14.1.0
 ```
 
-### 17. Updating Angular Core and Angular CLI (v13 to v14)
+### 17. Updating Angular CDK and Angular Material (v13 to v14)
 ```
-ng update @angular/core@14.1.0 @angular/cli@14.1.0
+ng update @angular/cdk@14.1.0 @angular/material@14.1.0
 ```
 
-### 17. Create a resolver
+### 18. Create a resolver
 ```
 ng g resolver <path>/<resolver_name>
+```
+
+### 19. Updating Angular Core and Angular CLI (v14 to v15)
+```
+ng update @angular/core@15 @angular/cli@15
+```
+
+### 20. Updating Angular CDK and Angular Material (v14 to v15)
+```
+ng update @angular/cdk@15 @angular/material@15
+```
+
+### 21. Updating Angular (v15 to v16)
+```
+ng update @angular/cli@16 @angular/core@16 @angular/cdk@16 @angular/material@16 --force
+```
+
+### 22. Updating Angular (v16 to v17)
+```
+ng update @angular/cli@17.0.7 @angular/core@17.0.7 @angular/cdk@17.0.4 @angular/material@17.0.4 --force
+```
+
+### 23. Create a standalone component
+```
+ng g c <path>/<component_name> --standalone
+```
+
+### 24. Migration to standalone
+```
+ng generate @angular/core:standalone
 ```
