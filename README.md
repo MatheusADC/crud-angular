@@ -105,12 +105,22 @@ npm run start
 ng update @angular/core@14.1.0 @angular/cli@14.1.0
 ```
 
-### 17. Updating Angular Core and Angular CLI (v13 to v14)
+### 17. Updating Angular CDK and Angular Material (v13 to v14)
 ```
-ng update @angular/core@14.1.0 @angular/cli@14.1.0
+ng update @angular/cdk@14.1.0 @angular/material@14.1.0
 ```
 
-### 17. Create a resolver
+### 18. Create a resolver
 ```
 ng g resolver <path>/<resolver_name>
+```
+
+### 19. Updating Angular Core and Angular CLI (v14 to v15)
+```
+ng update @angular/core@15 @angular/cli@15
+```
+
+### 20. Updating Angular Material (v14 to v15)
+```
+ng update @angular/material@15
 ```
