@@ -144,3 +144,8 @@ ng g c <path>/<component_name> --standalone
 ```
 ng generate @angular/core:standalone
 ```
+
+### 25. Adding Schematic Control-Flow
+```
+ng g @angular/core:control-flow
+```
