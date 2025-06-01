@@ -4,7 +4,7 @@ A project that creates the front-end of a website using Angular to perform CRUD 
 # <sub><img src="https://github.com/user-attachments/assets/f4356701-e53e-4c89-99dd-ce3656919e7b" alt="Angular icon" width="40"></sub> Back-End
 [Click here](https://github.com/MatheusADC/crud-spring)
 
-# <img src="https://github.com/user-attachments/assets/6d7dde36-c2de-46fe-801e-3acb3620a552" alt="terminal icon" width="28"> Commands
+# <sub><img src="https://github.com/user-attachments/assets/6d7dde36-c2de-46fe-801e-3acb3620a552" alt="terminal icon" width="36"></sub> Commands
 ### 1. Angular 12 Installation
 ```
 npm install -g @angular/cli@12
